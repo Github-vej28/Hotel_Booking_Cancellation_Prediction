@@ -1,0 +1,6 @@
+ipykernel
+matplotlib
+pandas
+scikit-learn
+seaborn
+pycountry_convert
